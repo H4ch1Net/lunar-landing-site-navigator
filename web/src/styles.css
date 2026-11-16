@@ -886,7 +886,8 @@ canvas {
 }
 
 .footer {
-  padding: var(--space-2) var(--space-3) var(--space-3);
+  /* The extra 64px keeps the last line clear of the host's fixed corner badge (Netlify free plan). */
+  padding: var(--space-2) var(--space-3) calc(var(--space-3) + 64px);
   border-top: var(--border-thin) solid var(--line);
   display: flex;
   flex-direction: column;
