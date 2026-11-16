@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>End card</title>
+<style>
+  @font-face { font-family: Inter; src: url(../web/src/fonts/Inter-Bold.woff2) format('woff2'); font-weight: 700; }
+  @font-face { font-family: 'Public Sans'; src: url(../web/src/fonts/PublicSans-Regular.woff2) format('woff2'); font-weight: 400; }
+  @font-face { font-family: 'DM Mono'; src: url(../web/src/fonts/DMMono-Medium.woff2) format('woff2'); font-weight: 500; }
+  @font-face { font-family: 'DM Mono'; src: url(../web/src/fonts/DMMono-Regular.woff2) format('woff2'); font-weight: 400; }
+  html, body { margin: 0; width: 1920px; height: 1080px; background: #000; overflow: hidden; }
+  .card { box-sizing: border-box; width: 1920px; height: 1080px; padding: 96px 160px 84px; display: flex; flex-direction: column; gap: 22px; color: #e3e3e3; font-family: 'Public Sans', Arial, sans-serif; }
+  .eyebrow { font-family: 'DM Mono', monospace; font-weight: 500; font-size: 26px; letter-spacing: 2px; color: #b9b9bb; }
+  .bar { width: 120px; height: 6px; background: #f64137; margin-top: 8px; }
+  h1 { margin: 0; font-family: Inter, Arial, sans-serif; font-weight: 700; font-size: 112px; line-height: 1.02; letter-spacing: -3px; color: #ffffff; }
+  .sub { font-size: 42px; line-height: 1.3; color: #e3e3e3; max-width: 1500px; }
+  .link { font-family: 'DM Mono', monospace; font-size: 44px; color: #ffffff; }
+  .horizon { align-self: flex-start; width: auto; height: 360px; max-width: 1600px; margin-top: 6px; }
+  .check { font-size: 36px; line-height: 1.3; color: #ffffff; }
+  .data { margin-top: auto; font-family: 'DM Mono', monospace; font-size: 26px; line-height: 1.5; color: #b9b9bb; }
+  .notice { font-family: 'DM Mono', monospace; font-size: 26px; color: #b9b9bb; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="eyebrow">NASA SPACE APPS CHALLENGE 2026 · TEAM SHACKLETON RIDGE</div>
+  <div class="bar"></div>
+  <h1>Lunar Landing Site Navigator</h1>
+  <div class="sub">Sun, Earth and the real terrain horizon at the lunar south pole.</div>
+  <img class="horizon" src="endcard-horizon.png" alt="Horizon view from the app: terrain, the Sun and Earth">
+  <div class="check">Checked against JPL Horizons (832 positions, within 0.0002°) and published LOLA terrain studies.</div>
+  <div class="link" id="link"></div>
+  <div class="data">Data: NASA NAIF SPICE (DE440) · NASA LRO LOLA south pole elevation models (Barker et al. 2023) · NASA PGDA illumination maps (Mazarico et al. 2011)</div>
+  <div class="notice">Built for the NASA Space Apps Challenge 2026. Not an official NASA website.</div>
+</div>
+<script>
+  // The live link is filled in from ?link=... once the app is deployed.
+  const link = new URLSearchParams(location.search).get('link');
+  if (link) document.getElementById('link').textContent = link;
+  else document.getElementById('link').remove();
+</script>
+</body>
+</html>

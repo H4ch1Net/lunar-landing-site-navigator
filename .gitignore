@@ -1,0 +1,30 @@
+# raw data and kernels (large, re-downloadable)
+data/raw/
+*.bsp
+*.bpc
+*.tif
+*.TIF
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+web/dist/
+.vite/
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# os/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tsbuildinfo
+demo/endcard-horizon.png
+demo/captions.ass

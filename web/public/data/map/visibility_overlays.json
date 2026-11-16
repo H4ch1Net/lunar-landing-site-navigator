@@ -1,0 +1,8 @@
+{
+ "left": -304000,
+ "right": 304000,
+ "bottom": -304000,
+ "top": 304000,
+ "source": "NASA PGDA Lunar Polar Illumination, AVGVISIB_75S_120M_201608 and _EARTH (Mazarico et al. 2011)",
+ "meaning": "fraction of hourly time steps over 18.6 years with any part of the disk visible, at the surface"
+}

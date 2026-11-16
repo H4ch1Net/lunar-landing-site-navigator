@@ -1,0 +1,8326 @@
+{
+ "source": "JPL Horizons API, QUANTITIES=4 (apparent az/el), center coord@301",
+ "fetched_utc": "2026-11-14 17:45",
+ "rows": [
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-14 00:00",
+   "az": 263.912878,
+   "el": 1.498351
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-14 19:00",
+   "az": 254.265921,
+   "el": 1.407406
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-15 14:00",
+   "az": 244.622923,
+   "el": 1.320103
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-16 09:00",
+   "az": 234.984102,
+   "el": 1.238997
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-17 04:00",
+   "az": 225.349613,
+   "el": 1.166433
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-17 23:00",
+   "az": 215.719552,
+   "el": 1.104473
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-18 18:00",
+   "az": 206.093951,
+   "el": 1.054837
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-19 13:00",
+   "az": 196.47276,
+   "el": 1.018852
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-20 08:00",
+   "az": 186.855837,
+   "el": 0.997411
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-21 03:00",
+   "az": 177.242925,
+   "el": 0.99096
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-21 22:00",
+   "az": 167.633635,
+   "el": 0.999493
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-22 17:00",
+   "az": 158.027429,
+   "el": 1.022567
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-23 12:00",
+   "az": 148.423614,
+   "el": 1.05934
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-24 07:00",
+   "az": 138.821353,
+   "el": 1.108613
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-25 02:00",
+   "az": 129.219698,
+   "el": 1.168886
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-25 21:00",
+   "az": 119.617629,
+   "el": 1.238409
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-26 16:00",
+   "az": 110.014128,
+   "el": 1.315231
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-27 11:00",
+   "az": 100.408232,
+   "el": 1.397237
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-28 06:00",
+   "az": 90.799102,
+   "el": 1.482183
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-29 01:00",
+   "az": 81.186056,
+   "el": 1.567733
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-29 20:00",
+   "az": 71.568603,
+   "el": 1.651494
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Nov-30 15:00",
+   "az": 61.946442,
+   "el": 1.731066
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-01 10:00",
+   "az": 52.319462,
+   "el": 1.804107
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-02 05:00",
+   "az": 42.687721,
+   "el": 1.868396
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-03 00:00",
+   "az": 33.051433,
+   "el": 1.921902
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-03 19:00",
+   "az": 23.410943,
+   "el": 1.962857
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-04 14:00",
+   "az": 13.766705,
+   "el": 1.989819
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-05 09:00",
+   "az": 4.119263,
+   "el": 2.001726
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-06 04:00",
+   "az": 354.469228,
+   "el": 1.997938
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-06 23:00",
+   "az": 344.817261,
+   "el": 1.978269
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-07 18:00",
+   "az": 335.164045,
+   "el": 1.943
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-08 13:00",
+   "az": 325.510273,
+   "el": 1.89287
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-09 08:00",
+   "az": 315.856627,
+   "el": 1.829066
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-10 03:00",
+   "az": 306.203759,
+   "el": 1.753179
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-10 22:00",
+   "az": 296.552284,
+   "el": 1.667161
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-11 17:00",
+   "az": 286.902766,
+   "el": 1.573259
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-12 12:00",
+   "az": 277.255715,
+   "el": 1.473943
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2026-Dec-13 07:00",
+   "az": 267.611581,
+   "el": 1.37183
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-01 00:00",
+   "az": 253.584531,
+   "el": -0.387806
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-01 23:00",
+   "az": 241.917568,
+   "el": -0.512106
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-02 22:00",
+   "az": 230.255528,
+   "el": -0.626751
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-03 21:00",
+   "az": 218.598803,
+   "el": -0.728296
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-04 20:00",
+   "az": 206.947656,
+   "el": -0.813866
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-05 19:00",
+   "az": 195.302178,
+   "el": -0.881238
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-06 18:00",
+   "az": 183.662229,
+   "el": -0.928898
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-07 17:00",
+   "az": 172.027378,
+   "el": -0.956053
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-08 16:00",
+   "az": 160.396845,
+   "el": -0.962631
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-09 15:00",
+   "az": 148.769492,
+   "el": -0.94927
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-10 14:00",
+   "az": 137.143858,
+   "el": -0.917314
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-11 13:00",
+   "az": 125.518272,
+   "el": -0.868816
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-12 12:00",
+   "az": 113.89101,
+   "el": -0.806537
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-13 11:00",
+   "az": 102.260468,
+   "el": -0.733904
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-14 10:00",
+   "az": 90.6253,
+   "el": -0.654906
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-15 09:00",
+   "az": 78.9845,
+   "el": -0.573923
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-16 08:00",
+   "az": 67.337422,
+   "el": -0.495509
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-17 07:00",
+   "az": 55.68376,
+   "el": -0.424151
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-18 06:00",
+   "az": 44.023509,
+   "el": -0.364037
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-19 05:00",
+   "az": 32.356909,
+   "el": -0.31885
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-20 04:00",
+   "az": 20.684409,
+   "el": -0.291585
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-21 03:00",
+   "az": 9.006621,
+   "el": -0.284418
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-22 02:00",
+   "az": 357.324287,
+   "el": -0.298615
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-23 01:00",
+   "az": 345.63825,
+   "el": -0.334481
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-24 00:00",
+   "az": 333.94942,
+   "el": -0.391367
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-24 23:00",
+   "az": 322.258748,
+   "el": -0.467712
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-25 22:00",
+   "az": 310.567199,
+   "el": -0.561129
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-26 21:00",
+   "az": 298.87573,
+   "el": -0.668528
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-27 20:00",
+   "az": 287.185268,
+   "el": -0.786262
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-28 19:00",
+   "az": 275.496699,
+   "el": -0.910295
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Sun",
+   "utc": "2028-Feb-29 18:00",
+   "az": 263.810852,
+   "el": -1.03638
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-14 00:00",
+   "az": 136.051931,
+   "el": -5.044463
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-14 19:00",
+   "az": 134.95449,
+   "el": -4.183331
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-15 14:00",
+   "az": 133.868744,
+   "el": -3.225072
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-16 09:00",
+   "az": 132.836205,
+   "el": -2.190794
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-17 04:00",
+   "az": 131.902489,
+   "el": -1.103099
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-17 23:00",
+   "az": 131.115645,
+   "el": 0.013232
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-18 18:00",
+   "az": 130.523932,
+   "el": 1.130374
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-19 13:00",
+   "az": 130.172895,
+   "el": 2.21659
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-20 08:00",
+   "az": 130.101598,
+   "el": 3.235651
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-21 03:00",
+   "az": 130.338045,
+   "el": 4.146938
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-21 22:00",
+   "az": 130.894108,
+   "el": 4.906678
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-22 17:00",
+   "az": 131.760755,
+   "el": 5.470728
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-23 12:00",
+   "az": 132.90487,
+   "el": 5.798988
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-24 07:00",
+   "az": 134.269147,
+   "el": 5.860972
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-25 02:00",
+   "az": 135.776204,
+   "el": 5.64135
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-25 21:00",
+   "az": 137.336838,
+   "el": 5.14383
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-26 16:00",
+   "az": 138.860891,
+   "el": 4.391978
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-27 11:00",
+   "az": 140.26802,
+   "el": 3.426552
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-28 06:00",
+   "az": 141.495786,
+   "el": 2.300137
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-29 01:00",
+   "az": 142.503541,
+   "el": 1.07073
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-29 20:00",
+   "az": 143.272173,
+   "el": -0.204072
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Nov-30 15:00",
+   "az": 143.800801,
+   "el": -1.471231
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-01 10:00",
+   "az": 144.101952,
+   "el": -2.684559
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-02 05:00",
+   "az": 144.196449,
+   "el": -3.805439
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-03 00:00",
+   "az": 144.108869,
+   "el": -4.802603
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-03 19:00",
+   "az": 143.863953,
+   "el": -5.651464
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-04 14:00",
+   "az": 143.484103,
+   "el": -6.333418
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-05 09:00",
+   "az": 142.987927,
+   "el": -6.835304
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-06 04:00",
+   "az": 142.389739,
+   "el": -7.149059
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-06 23:00",
+   "az": 141.699868,
+   "el": -7.27153
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-07 18:00",
+   "az": 140.925619,
+   "el": -7.20433
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-08 13:00",
+   "az": 140.07268,
+   "el": -6.953636
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-09 08:00",
+   "az": 139.146775,
+   "el": -6.52986
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-10 03:00",
+   "az": 138.155331,
+   "el": -5.947157
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-10 22:00",
+   "az": 137.108995,
+   "el": -5.22281
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-11 17:00",
+   "az": 136.022833,
+   "el": -4.376562
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-12 12:00",
+   "az": 134.917164,
+   "el": -3.429998
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2026-Dec-13 07:00",
+   "az": 133.817967,
+   "el": -2.406059
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-01 00:00",
+   "az": 131.872789,
+   "el": 5.715257
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-01 23:00",
+   "az": 130.920429,
+   "el": 6.114711
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-02 22:00",
+   "az": 130.188352,
+   "el": 6.235317
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-03 21:00",
+   "az": 129.730494,
+   "el": 6.054564
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-04 20:00",
+   "az": 129.597553,
+   "el": 5.55684
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-05 19:00",
+   "az": 129.831532,
+   "el": 4.737456
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-06 18:00",
+   "az": 130.458762,
+   "el": 3.608581
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-07 17:00",
+   "az": 131.48199,
+   "el": 2.206241
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-08 16:00",
+   "az": 132.872797,
+   "el": 0.596172
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-09 15:00",
+   "az": 134.566507,
+   "el": -1.124981
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-10 14:00",
+   "az": 136.462222,
+   "el": -2.836521
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-11 13:00",
+   "az": 138.430209,
+   "el": -4.409396
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-12 12:00",
+   "az": 140.326914,
+   "el": -5.726911
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-13 11:00",
+   "az": 142.014717,
+   "el": -6.70314
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-14 10:00",
+   "az": 143.381036,
+   "el": -7.292466
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-15 09:00",
+   "az": 144.351286,
+   "el": -7.488393
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-16 08:00",
+   "az": 144.892947,
+   "el": -7.314742
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-17 07:00",
+   "az": 145.011589,
+   "el": -6.814346
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-18 06:00",
+   "az": 144.742032,
+   "el": -6.039255
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-19 05:00",
+   "az": 144.138063,
+   "el": -5.044211
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-20 04:00",
+   "az": 143.263088,
+   "el": -3.8833
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-21 03:00",
+   "az": 142.182812,
+   "el": -2.608856
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-22 02:00",
+   "az": 140.960121,
+   "el": -1.271558
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-23 01:00",
+   "az": 139.651902,
+   "el": 0.079129
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-24 00:00",
+   "az": 138.307441,
+   "el": 1.394719
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-24 23:00",
+   "az": 136.968077,
+   "el": 2.627946
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-25 22:00",
+   "az": 135.667888,
+   "el": 3.733509
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-26 21:00",
+   "az": 134.435227,
+   "el": 4.669183
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-27 20:00",
+   "az": 133.29489,
+   "el": 5.397063
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-28 19:00",
+   "az": 132.270652,
+   "el": 5.884717
+  },
+  {
+   "site": "Connecting Ridge (near Shackleton)",
+   "lat": -89.45,
+   "lon": 222.69,
+   "alt_km": 1.8,
+   "body": "Earth",
+   "utc": "2028-Feb-29 18:00",
+   "az": 131.387816,
+   "el": 6.106104
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-14 00:00",
+   "az": 124.995975,
+   "el": -4.12624
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-14 19:00",
+   "az": 115.44068,
+   "el": -2.698924
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-15 14:00",
+   "az": 105.918816,
+   "el": -1.154763
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-16 09:00",
+   "az": 96.4184,
+   "el": 0.463366
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-17 04:00",
+   "az": 86.924986,
+   "el": 2.110953
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-17 23:00",
+   "az": 77.423171,
+   "el": 3.742833
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-18 18:00",
+   "az": 67.898182,
+   "el": 5.314147
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-19 13:00",
+   "az": 58.337433,
+   "el": 6.781318
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-20 08:00",
+   "az": 48.731919,
+   "el": 8.10308
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-21 03:00",
+   "az": 39.077301,
+   "el": 9.241603
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-21 22:00",
+   "az": 29.374563,
+   "el": 10.163671
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-22 17:00",
+   "az": 19.630079,
+   "el": 10.841875
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-23 12:00",
+   "az": 9.855046,
+   "el": 11.255724
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-24 07:00",
+   "az": 0.064277,
+   "el": 11.392559
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-25 02:00",
+   "az": 350.274485,
+   "el": 11.248145
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-25 21:00",
+   "az": 340.5023,
+   "el": 10.826885
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-26 16:00",
+   "az": 330.762296,
+   "el": 10.141584
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-27 11:00",
+   "az": 321.065325,
+   "el": 9.212841
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-28 06:00",
+   "az": 311.417369,
+   "el": 8.068124
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-29 01:00",
+   "az": 301.819023,
+   "el": 6.740657
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-29 20:00",
+   "az": 292.265621,
+   "el": 5.26823
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Nov-30 15:00",
+   "az": 282.747903,
+   "el": 3.692032
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-01 10:00",
+   "az": 273.253119,
+   "el": 2.055543
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-02 05:00",
+   "az": 263.766411,
+   "el": 0.403515
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-03 00:00",
+   "az": 254.272357,
+   "el": -1.219
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-03 19:00",
+   "az": 244.756541,
+   "el": -2.767593
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-04 14:00",
+   "az": 235.207043,
+   "el": -4.19948
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-05 09:00",
+   "az": 225.615717,
+   "el": -5.474547
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-06 04:00",
+   "az": 215.979134,
+   "el": -6.556466
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-06 23:00",
+   "az": 206.299057,
+   "el": -7.41387
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-07 18:00",
+   "az": 196.582343,
+   "el": -8.021509
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-08 13:00",
+   "az": 186.840223,
+   "el": -8.361288
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-09 08:00",
+   "az": 177.087004,
+   "el": -8.423088
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-10 03:00",
+   "az": 167.338337,
+   "el": -8.205245
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-10 22:00",
+   "az": 157.609299,
+   "el": -7.714642
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-11 17:00",
+   "az": 147.912545,
+   "el": -6.966374
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-12 12:00",
+   "az": 138.256824,
+   "el": -5.983063
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2026-Dec-13 07:00",
+   "az": 128.646013,
+   "el": -4.793893
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-01 00:00",
+   "az": 114.471394,
+   "el": -4.35757
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-01 23:00",
+   "az": 102.933915,
+   "el": -2.486943
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-02 22:00",
+   "az": 91.432957,
+   "el": -0.528497
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-03 21:00",
+   "az": 79.942683,
+   "el": 1.437573
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-04 20:00",
+   "az": 68.436658,
+   "el": 3.331088
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-05 19:00",
+   "az": 56.891897,
+   "el": 5.074461
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-06 18:00",
+   "az": 45.292442,
+   "el": 6.595364
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-07 17:00",
+   "az": 33.63196,
+   "el": 7.829582
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-08 16:00",
+   "az": 21.914895,
+   "el": 8.723951
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-09 15:00",
+   "az": 10.155833,
+   "el": 9.239155
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-10 14:00",
+   "az": 358.377011,
+   "el": 9.352009
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-11 13:00",
+   "az": 346.604339,
+   "el": 9.056855
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-12 12:00",
+   "az": 334.862693,
+   "el": 8.365836
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-13 11:00",
+   "az": 323.171425,
+   "el": 7.308008
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-14 10:00",
+   "az": 311.540976,
+   "el": 5.92749
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-15 09:00",
+   "az": 299.971147,
+   "el": 4.280979
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-16 08:00",
+   "az": 288.451181,
+   "el": 2.434972
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-17 07:00",
+   "az": 276.961477,
+   "el": 0.463002
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-18 06:00",
+   "az": 265.476533,
+   "el": -1.556999
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-19 05:00",
+   "az": 253.968695,
+   "el": -3.545184
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-20 04:00",
+   "az": 242.412244,
+   "el": -5.422254
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-21 03:00",
+   "az": 230.78738,
+   "el": -7.112067
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-22 02:00",
+   "az": 219.083597,
+   "el": -8.544515
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-23 01:00",
+   "az": 207.301889,
+   "el": -9.658688
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-24 00:00",
+   "az": 195.455236,
+   "el": -10.406141
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-24 23:00",
+   "az": 183.567007,
+   "el": -10.753926
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-25 22:00",
+   "az": 171.667355,
+   "el": -10.686894
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-26 21:00",
+   "az": 159.78819,
+   "el": -10.208851
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-27 20:00",
+   "az": 147.95777,
+   "el": -9.342317
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-28 19:00",
+   "az": 136.196098,
+   "el": -8.126931
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Sun",
+   "utc": "2028-Feb-29 18:00",
+   "az": 124.512008,
+   "el": -6.616847
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-14 00:00",
+   "az": 357.328415,
+   "el": 5.21092
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-14 19:00",
+   "az": 356.214303,
+   "el": 6.054622
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-15 14:00",
+   "az": 355.10396,
+   "el": 6.991899
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-16 09:00",
+   "az": 354.038901,
+   "el": 8.002745
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-17 04:00",
+   "az": 353.065678,
+   "el": 9.066313
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-17 23:00",
+   "az": 352.234328,
+   "el": 10.16014
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-18 18:00",
+   "az": 351.596198,
+   "el": 11.259066
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-19 13:00",
+   "az": 351.200931,
+   "el": 12.334022
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-20 08:00",
+   "az": 351.092428,
+   "el": 13.350976
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-21 03:00",
+   "az": 351.303743,
+   "el": 14.270511
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-21 22:00",
+   "az": 351.851211,
+   "el": 15.048603
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-22 17:00",
+   "az": 352.728662,
+   "el": 15.639176
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-23 12:00",
+   "az": 353.903244,
+   "el": 15.998678
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-24 07:00",
+   "az": 355.314741,
+   "el": 16.092285
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-25 02:00",
+   "az": 356.879886,
+   "el": 15.900421
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-25 21:00",
+   "az": 358.501775,
+   "el": 15.423656
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-26 16:00",
+   "az": 0.082498,
+   "el": 14.684196
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-27 11:00",
+   "az": 1.535665,
+   "el": 13.723279
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-28 06:00",
+   "az": 2.795553,
+   "el": 12.595337
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-29 01:00",
+   "az": 3.821137,
+   "el": 11.360827
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-29 20:00",
+   "az": 4.595207,
+   "el": 10.079713
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Nov-30 15:00",
+   "az": 5.120114,
+   "el": 8.806847
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-01 10:00",
+   "az": 5.412006,
+   "el": 7.589514
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-02 05:00",
+   "az": 5.495037,
+   "el": 6.466757
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-03 00:00",
+   "az": 5.39643,
+   "el": 5.469769
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-03 19:00",
+   "az": 5.142736,
+   "el": 4.622745
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-04 14:00",
+   "az": 4.757341,
+   "el": 3.943739
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-05 09:00",
+   "az": 4.259112,
+   "el": 3.445314
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-06 04:00",
+   "az": 3.662021,
+   "el": 3.134927
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-06 23:00",
+   "az": 2.975587,
+   "el": 3.015142
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-07 18:00",
+   "az": 2.205939,
+   "el": 3.083755
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-08 13:00",
+   "az": 1.357321,
+   "el": 3.333987
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-09 08:00",
+   "az": 0.433841,
+   "el": 3.754814
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-10 03:00",
+   "az": 359.441241,
+   "el": 4.331486
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-10 22:00",
+   "az": 358.388534,
+   "el": 5.046194
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-11 17:00",
+   "az": 357.289361,
+   "el": 5.878832
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-12 12:00",
+   "az": 356.162988,
+   "el": 6.807726
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2026-Dec-13 07:00",
+   "az": 355.034892,
+   "el": 7.810243
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-01 00:00",
+   "az": 352.837903,
+   "el": 15.886288
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-01 23:00",
+   "az": 351.839139,
+   "el": 16.257258
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-02 22:00",
+   "az": 351.076403,
+   "el": 16.353957
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-03 21:00",
+   "az": 350.608595,
+   "el": 16.157396
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-04 20:00",
+   "az": 350.48943,
+   "el": 15.654991
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-05 19:00",
+   "az": 350.761015,
+   "el": 14.843873
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-06 18:00",
+   "az": 351.446156,
+   "el": 13.736112
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-07 17:00",
+   "az": 352.540316,
+   "el": 12.365277
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-08 16:00",
+   "az": 354.004928,
+   "el": 10.792368
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-09 15:00",
+   "az": 355.764346,
+   "el": 9.107856
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-10 14:00",
+   "az": 357.708746,
+   "el": 7.426328
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-11 13:00",
+   "az": 359.704164,
+   "el": 5.87255
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-12 12:00",
+   "az": 1.608643,
+   "el": 4.562022
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-13 11:00",
+   "az": 3.290931,
+   "el": 3.582752
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-14 10:00",
+   "az": 4.646818,
+   "el": 2.984699
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-15 09:00",
+   "az": 5.60904,
+   "el": 2.779281
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-16 08:00",
+   "az": 6.149317,
+   "el": 2.946598
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-17 07:00",
+   "az": 6.273856,
+   "el": 3.445838
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-18 06:00",
+   "az": 6.015175,
+   "el": 4.224958
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-19 05:00",
+   "az": 5.423039,
+   "el": 5.227673
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-20 04:00",
+   "az": 4.556336,
+   "el": 6.397515
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-21 03:00",
+   "az": 3.476734,
+   "el": 7.67961
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-22 02:00",
+   "az": 2.244197,
+   "el": 9.021092
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-23 01:00",
+   "az": 0.914143,
+   "el": 10.370965
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-24 00:00",
+   "az": 359.535939,
+   "el": 11.679962
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-24 23:00",
+   "az": 358.152475,
+   "el": 12.90076
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-25 22:00",
+   "az": 356.800663,
+   "el": 13.988602
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-26 21:00",
+   "az": 355.51269,
+   "el": 14.902288
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-27 20:00",
+   "az": 354.317869,
+   "el": 15.605311
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-28 19:00",
+   "az": 353.244823,
+   "el": 16.066936
+  },
+  {
+   "site": "Odysseus (IM-1), Malapert A",
+   "lat": -80.13,
+   "lon": 1.44,
+   "alt_km": 2.579,
+   "body": "Earth",
+   "utc": "2028-Feb-29 18:00",
+   "az": 352.323647,
+   "el": 16.26309
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-14 00:00",
+   "az": 126.617686,
+   "el": 1.550641
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-14 19:00",
+   "az": 116.969865,
+   "el": 1.551955
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-15 14:00",
+   "az": 107.325663,
+   "el": 1.552789
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-16 09:00",
+   "az": 97.68536,
+   "el": 1.553211
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-17 04:00",
+   "az": 88.049176,
+   "el": 1.553272
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-17 23:00",
+   "az": 78.417265,
+   "el": 1.552998
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-18 18:00",
+   "az": 68.789704,
+   "el": 1.552386
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-19 13:00",
+   "az": 59.166486,
+   "el": 1.551399
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-20 08:00",
+   "az": 49.547499,
+   "el": 1.549966
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-21 03:00",
+   "az": 39.932513,
+   "el": 1.547992
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-21 22:00",
+   "az": 30.321162,
+   "el": 1.545362
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-22 17:00",
+   "az": 20.712931,
+   "el": 1.541964
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-23 12:00",
+   "az": 11.107158,
+   "el": 1.537707
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-24 07:00",
+   "az": 1.503039,
+   "el": 1.532549
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-25 02:00",
+   "az": 351.899667,
+   "el": 1.526514
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-25 21:00",
+   "az": 342.296072,
+   "el": 1.519705
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-26 16:00",
+   "az": 332.691286,
+   "el": 1.512299
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-27 11:00",
+   "az": 323.084405,
+   "el": 1.504532
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-28 06:00",
+   "az": 313.47464,
+   "el": 1.496667
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-29 01:00",
+   "az": 303.86136,
+   "el": 1.488962
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-29 20:00",
+   "az": 294.24411,
+   "el": 1.481641
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-30 15:00",
+   "az": 284.622616,
+   "el": 1.474869
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-01 10:00",
+   "az": 274.99677,
+   "el": 1.468738
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-02 05:00",
+   "az": 265.366615,
+   "el": 1.463269
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-03 00:00",
+   "az": 255.732326,
+   "el": 1.458414
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-03 19:00",
+   "az": 246.094183,
+   "el": 1.454069
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-04 14:00",
+   "az": 236.452556,
+   "el": 1.450089
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-05 09:00",
+   "az": 226.807886,
+   "el": 1.446302
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-06 04:00",
+   "az": 217.160672,
+   "el": 1.442529
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-06 23:00",
+   "az": 207.511453,
+   "el": 1.438593
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-07 18:00",
+   "az": 197.860799,
+   "el": 1.434335
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-08 13:00",
+   "az": 188.2093,
+   "el": 1.429622
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-09 08:00",
+   "az": 178.557548,
+   "el": 1.424352
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-10 03:00",
+   "az": 168.906136,
+   "el": 1.418455
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-10 22:00",
+   "az": 159.25564,
+   "el": 1.411894
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-11 17:00",
+   "az": 149.606615,
+   "el": 1.404658
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-12 12:00",
+   "az": 139.959586,
+   "el": 1.396758
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-13 07:00",
+   "az": 130.315043,
+   "el": 1.388218
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-01 00:00",
+   "az": 116.271645,
+   "el": -0.236787
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-01 23:00",
+   "az": 104.60429,
+   "el": -0.255704
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-02 22:00",
+   "az": 92.942157,
+   "el": -0.275599
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-03 21:00",
+   "az": 81.285681,
+   "el": -0.296927
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-04 20:00",
+   "az": 69.635132,
+   "el": -0.320098
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-05 19:00",
+   "az": 57.990568,
+   "el": -0.345434
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-06 18:00",
+   "az": 46.351781,
+   "el": -0.373118
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-07 17:00",
+   "az": 34.718247,
+   "el": -0.403148
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-08 16:00",
+   "az": 23.089079,
+   "el": -0.435306
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-09 15:00",
+   "az": 11.463026,
+   "el": -0.469161
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-10 14:00",
+   "az": 359.838527,
+   "el": -0.504112
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-11 13:00",
+   "az": 348.213826,
+   "el": -0.539473
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-12 12:00",
+   "az": 336.587146,
+   "el": -0.574582
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-13 11:00",
+   "az": 324.95686,
+   "el": -0.608889
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-14 10:00",
+   "az": 313.321633,
+   "el": -0.642012
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-15 09:00",
+   "az": 301.680497,
+   "el": -0.673735
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-16 08:00",
+   "az": 290.032859,
+   "el": -0.703977
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-17 07:00",
+   "az": 278.378474,
+   "el": -0.732744
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-18 06:00",
+   "az": 266.717385,
+   "el": -0.760078
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-19 05:00",
+   "az": 255.04987,
+   "el": -0.786025
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-20 04:00",
+   "az": 243.376394,
+   "el": -0.81061
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-21 03:00",
+   "az": 231.697569,
+   "el": -0.833834
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-22 02:00",
+   "az": 220.014126,
+   "el": -0.855673
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-23 01:00",
+   "az": 208.326893,
+   "el": -0.876093
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-24 00:00",
+   "az": 196.636776,
+   "el": -0.895066
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-24 23:00",
+   "az": 184.944739,
+   "el": -0.912594
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-25 22:00",
+   "az": 173.251789,
+   "el": -0.928728
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-26 21:00",
+   "az": 161.558947,
+   "el": -0.943589
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-27 20:00",
+   "az": 149.867234,
+   "el": -0.957379
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-28 19:00",
+   "az": 138.177642,
+   "el": -0.970388
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-29 18:00",
+   "az": 126.491113,
+   "el": -0.982984
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-14 00:00",
+   "az": 358.772662,
+   "el": -4.638272
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-14 19:00",
+   "az": 357.669977,
+   "el": -3.784517
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-15 14:00",
+   "az": 356.578077,
+   "el": -2.833701
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-16 09:00",
+   "az": 355.538589,
+   "el": -1.806633
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-17 04:00",
+   "az": 354.597282,
+   "el": -0.725567
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-17 23:00",
+   "az": 353.802407,
+   "el": 0.3851
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-18 18:00",
+   "az": 353.202483,
+   "el": 1.497936
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-19 13:00",
+   "az": 352.843368,
+   "el": 2.58158
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-20 08:00",
+   "az": 352.764499,
+   "el": 3.600122
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-21 03:00",
+   "az": 352.994288,
+   "el": 4.513154
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-21 22:00",
+   "az": 353.545028,
+   "el": 5.276969
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-22 17:00",
+   "az": 354.408071,
+   "el": 5.847296
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-23 12:00",
+   "az": 355.550586,
+   "el": 6.183708
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-24 07:00",
+   "az": 356.915401,
+   "el": 6.255209
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-25 02:00",
+   "az": 358.425068,
+   "el": 6.045836
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-25 21:00",
+   "az": 359.990133,
+   "el": 5.558628
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-26 16:00",
+   "az": 1.520042,
+   "el": 4.816542
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-27 11:00",
+   "az": 2.934003,
+   "el": 3.859858
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-28 06:00",
+   "az": 4.16914,
+   "el": 2.740847
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-29 01:00",
+   "az": 5.184449,
+   "el": 1.517357
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-29 20:00",
+   "az": 5.960545,
+   "el": 0.246967
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-30 15:00",
+   "az": 6.496362,
+   "el": -1.017216
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-01 10:00",
+   "az": 6.804292,
+   "el": -2.228877
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-02 05:00",
+   "az": 6.905059,
+   "el": -3.349253
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-03 00:00",
+   "az": 6.823149,
+   "el": -4.346929
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-03 19:00",
+   "az": 6.583217,
+   "el": -5.197183
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-04 14:00",
+   "az": 6.207575,
+   "el": -5.881301
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-05 09:00",
+   "az": 5.714742,
+   "el": -6.386034
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-06 04:00",
+   "az": 5.11895,
+   "el": -6.703261
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-06 23:00",
+   "az": 4.430462,
+   "el": -6.829791
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-07 18:00",
+   "az": 3.65653,
+   "el": -6.76722
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-08 13:00",
+   "az": 2.802815,
+   "el": -6.521715
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-09 08:00",
+   "az": 1.875031,
+   "el": -6.103679
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-10 03:00",
+   "az": 0.880622,
+   "el": -5.527245
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-10 22:00",
+   "az": 359.830271,
+   "el": -4.80965
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-11 17:00",
+   "az": 358.739105,
+   "el": -3.97056
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-12 12:00",
+   "az": 357.627528,
+   "el": -3.031432
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-13 07:00",
+   "az": 356.521632,
+   "el": -2.015036
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-01 00:00",
+   "az": 354.51857,
+   "el": 6.092592
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-01 23:00",
+   "az": 353.562609,
+   "el": 6.485167
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-02 22:00",
+   "az": 352.829093,
+   "el": 6.600417
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-03 21:00",
+   "az": 352.372241,
+   "el": 6.416287
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-04 20:00",
+   "az": 352.242918,
+   "el": 5.917582
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-05 19:00",
+   "az": 352.483132,
+   "el": 5.099939
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-06 18:00",
+   "az": 353.119001,
+   "el": 3.975688
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-07 17:00",
+   "az": 354.152788,
+   "el": 2.580789
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-08 16:00",
+   "az": 355.555328,
+   "el": 0.980633
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-09 15:00",
+   "az": 357.260982,
+   "el": -0.728763
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-10 14:00",
+   "az": 359.167827,
+   "el": -2.427566
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-11 13:00",
+   "az": 1.145232,
+   "el": -3.987698
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-12 12:00",
+   "az": 3.049054,
+   "el": -5.293407
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-13 11:00",
+   "az": 4.741471,
+   "el": -6.259529
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-14 10:00",
+   "az": 6.110034,
+   "el": -6.840953
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-15 09:00",
+   "az": 7.080482,
+   "el": -7.03142
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-16 08:00",
+   "az": 7.620658,
+   "el": -6.854772
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-17 07:00",
+   "az": 7.736427,
+   "el": -6.353714
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-18 06:00",
+   "az": 7.462811,
+   "el": -5.580088
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-19 05:00",
+   "az": 6.85372,
+   "el": -4.58838
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-20 04:00",
+   "az": 5.97265,
+   "el": -3.432399
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-21 03:00",
+   "az": 4.885407,
+   "el": -2.164193
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-22 02:00",
+   "az": 3.655021,
+   "el": -0.834152
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-23 01:00",
+   "az": 2.338586,
+   "el": 0.508544
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-24 00:00",
+   "az": 0.985661,
+   "el": 1.815684
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-24 23:00",
+   "az": 359.637915,
+   "el": 3.040257
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-25 22:00",
+   "az": 358.329802,
+   "el": 4.1372
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-26 21:00",
+   "az": 357.090072,
+   "el": 5.064505
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-27 20:00",
+   "az": 355.943917,
+   "el": 5.784478
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-28 19:00",
+   "az": 354.915483,
+   "el": 6.264897
+  },
+  {
+   "site": "Near south pole",
+   "lat": -89.99,
+   "lon": 0.0,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-29 18:00",
+   "az": 354.030395,
+   "el": 6.479951
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-14 00:00",
+   "az": 91.441745,
+   "el": -13.158098
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-14 19:00",
+   "az": 91.5188,
+   "el": -3.514142
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-15 14:00",
+   "az": 91.637876,
+   "el": 6.125779
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-16 09:00",
+   "az": 91.806465,
+   "el": 15.761133
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-17 04:00",
+   "az": 92.040053,
+   "el": 25.39133
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-17 23:00",
+   "az": 92.367479,
+   "el": 35.015608
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-18 18:00",
+   "az": 92.843937,
+   "el": 44.632786
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-19 13:00",
+   "az": 93.58546,
+   "el": 54.240601
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-20 08:00",
+   "az": 94.879408,
+   "el": 63.833584
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-21 03:00",
+   "az": 97.675011,
+   "el": 73.393543
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-21 22:00",
+   "az": 107.902434,
+   "el": 82.804219
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-22 17:00",
+   "az": 231.34561,
+   "el": 86.465923
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-23 12:00",
+   "az": 259.892694,
+   "el": 77.440442
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-24 07:00",
+   "az": 264.276063,
+   "el": 67.922154
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-25 02:00",
+   "az": 266.011296,
+   "el": 58.353232
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-25 21:00",
+   "az": 266.937157,
+   "el": 48.768471
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-26 16:00",
+   "az": 267.509737,
+   "el": 39.175745
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-27 11:00",
+   "az": 267.895444,
+   "el": 29.577385
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-28 06:00",
+   "az": 268.168879,
+   "el": 19.974072
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-29 01:00",
+   "az": 268.367836,
+   "el": 10.365945
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-29 20:00",
+   "az": 268.51269,
+   "el": 0.753002
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-30 15:00",
+   "az": 268.614232,
+   "el": -8.864743
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-01 10:00",
+   "az": 268.676879,
+   "el": -18.487187
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-02 05:00",
+   "az": 268.699414,
+   "el": -28.114114
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-03 00:00",
+   "az": 268.673485,
+   "el": -37.745177
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-03 19:00",
+   "az": 268.57815,
+   "el": -47.379868
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-04 14:00",
+   "az": 268.363507,
+   "el": -57.017415
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-05 09:00",
+   "az": 267.892674,
+   "el": -66.656402
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-06 04:00",
+   "az": 266.638032,
+   "el": -76.292732
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-06 23:00",
+   "az": 259.115218,
+   "el": -85.88865
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-07 18:00",
+   "az": 97.863927,
+   "el": -84.336327
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-08 13:00",
+   "az": 92.998518,
+   "el": -74.720053
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-09 08:00",
+   "az": 91.95494,
+   "el": -65.077709
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-10 03:00",
+   "az": 91.540207,
+   "el": -55.431515
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-10 22:00",
+   "az": 91.346236,
+   "el": -45.784833
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-11 17:00",
+   "az": 91.258612,
+   "el": -36.13903
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-12 12:00",
+   "az": 91.234003,
+   "el": -26.494972
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-13 07:00",
+   "az": 91.253834,
+   "el": -16.853342
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-01 00:00",
+   "az": 89.735103,
+   "el": -2.796441
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-01 23:00",
+   "az": 89.849632,
+   "el": 8.87027
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-02 22:00",
+   "az": 89.959431,
+   "el": 20.531849
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-03 21:00",
+   "az": 90.072452,
+   "el": 32.187822
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-04 20:00",
+   "az": 90.199618,
+   "el": 43.837883
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-05 19:00",
+   "az": 90.362392,
+   "el": 55.481915
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-06 18:00",
+   "az": 90.621681,
+   "el": 67.119985
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-07 17:00",
+   "az": 91.28408,
+   "el": 78.751982
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-08 16:00",
+   "az": 239.044457,
+   "el": 89.552391
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-09 15:00",
+   "az": 269.130003,
+   "el": 77.988953
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-10 14:00",
+   "az": 269.740316,
+   "el": 66.366037
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-11 13:00",
+   "az": 269.996816,
+   "el": 54.742306
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-12 12:00",
+   "az": 270.167637,
+   "el": 43.116552
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-13 11:00",
+   "az": 270.30998,
+   "el": 31.4873
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-14 10:00",
+   "az": 270.445788,
+   "el": 19.853301
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-15 09:00",
+   "az": 270.588073,
+   "el": 8.213672
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-16 08:00",
+   "az": 270.748472,
+   "el": -3.432069
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-17 07:00",
+   "az": 270.941454,
+   "el": -15.084
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-18 06:00",
+   "az": 271.18948,
+   "el": -26.741791
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-19 05:00",
+   "az": 271.533473,
+   "el": -38.404623
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-20 04:00",
+   "az": 272.060777,
+   "el": -50.07086
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-21 03:00",
+   "az": 273.001689,
+   "el": -61.736783
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-22 02:00",
+   "az": 275.231286,
+   "el": -73.389815
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-23 01:00",
+   "az": 287.604064,
+   "el": -84.907701
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-24 00:00",
+   "az": 77.163106,
+   "el": -82.988573
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-24 23:00",
+   "az": 85.161846,
+   "el": -71.405681
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-25 22:00",
+   "az": 87.021416,
+   "el": -59.738309
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-26 21:00",
+   "az": 87.852772,
+   "el": -48.057162
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-27 20:00",
+   "az": 88.32581,
+   "el": -36.372333
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-28 19:00",
+   "az": 88.630923,
+   "el": -24.687395
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-29 18:00",
+   "az": 88.842163,
+   "el": -13.004307
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "1969-Jul-20 20:17",
+   "az": 88.805426,
+   "el": 10.697481
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "1969-Jul-20 20:18",
+   "az": 88.805505,
+   "el": 10.705972
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-14 00:00",
+   "az": 279.017601,
+   "el": 64.944454
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-14 19:00",
+   "az": 276.738462,
+   "el": 63.949776
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-15 14:00",
+   "az": 274.407849,
+   "el": 62.936618
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-16 09:00",
+   "az": 272.077501,
+   "el": 61.940436
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-17 04:00",
+   "az": 269.784007,
+   "el": 61.00424
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-17 23:00",
+   "az": 267.551867,
+   "el": 60.176368
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-18 18:00",
+   "az": 265.397769,
+   "el": 59.507753
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-19 13:00",
+   "az": 263.335364,
+   "el": 59.048702
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-20 08:00",
+   "az": 261.380061,
+   "el": 58.845143
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-21 03:00",
+   "az": 259.553575,
+   "el": 58.934343
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-21 22:00",
+   "az": 257.888083,
+   "el": 59.340254
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-22 17:00",
+   "az": 256.42982,
+   "el": 60.068957
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-23 12:00",
+   "az": 255.241859,
+   "el": 61.104926
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-24 07:00",
+   "az": 254.405538,
+   "el": 62.409098
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-25 02:00",
+   "az": 254.019636,
+   "el": 63.919581
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-25 21:00",
+   "az": 254.195745,
+   "el": 65.555369
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-26 16:00",
+   "az": 255.047504,
+   "el": 67.222735
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-27 11:00",
+   "az": 256.670816,
+   "el": 68.823416
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-28 06:00",
+   "az": 259.11342,
+   "el": 70.263691
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-29 01:00",
+   "az": 262.337485,
+   "el": 71.463759
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-29 20:00",
+   "az": 266.189382,
+   "el": 72.366865
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-30 15:00",
+   "az": 270.399849,
+   "el": 72.946594
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-01 10:00",
+   "az": 274.630052,
+   "el": 73.209469
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-02 05:00",
+   "az": 278.549347,
+   "el": 73.190499
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-03 00:00",
+   "az": 281.904398,
+   "el": 72.942574
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-03 19:00",
+   "az": 284.547752,
+   "el": 72.523822
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-04 14:00",
+   "az": 286.426405,
+   "el": 71.987219
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-05 09:00",
+   "az": 287.551939,
+   "el": 71.374414
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-06 04:00",
+   "az": 287.972035,
+   "el": 70.713428
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-06 23:00",
+   "az": 287.751803,
+   "el": 70.019054
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-07 18:00",
+   "az": 286.964771,
+   "el": 69.294909
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-08 13:00",
+   "az": 285.68998,
+   "el": 68.536489
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-09 08:00",
+   "az": 284.01143,
+   "el": 67.734838
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-10 03:00",
+   "az": 282.017161,
+   "el": 66.880471
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-10 22:00",
+   "az": 279.796622,
+   "el": 65.967163
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-11 17:00",
+   "az": 277.436347,
+   "el": 64.995153
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-12 12:00",
+   "az": 275.014985,
+   "el": 63.973408
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-13 07:00",
+   "az": 272.59909,
+   "el": 62.920738
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-01 00:00",
+   "az": 255.944399,
+   "el": 60.140122
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-01 23:00",
+   "az": 255.594573,
+   "el": 59.122045
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-02 22:00",
+   "az": 255.682032,
+   "el": 58.381405
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-03 21:00",
+   "az": 256.203246,
+   "el": 57.973732
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-04 20:00",
+   "az": 257.169161,
+   "el": 57.946169
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-05 19:00",
+   "az": 258.604446,
+   "el": 58.331244
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-06 18:00",
+   "az": 260.543971,
+   "el": 59.138461
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-07 17:00",
+   "az": 263.024923,
+   "el": 60.344971
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-08 16:00",
+   "az": 266.072142,
+   "el": 61.888232
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-09 15:00",
+   "az": 269.674101,
+   "el": 63.665162
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-10 14:00",
+   "az": 273.749109,
+   "el": 65.542227
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-11 13:00",
+   "az": 278.108363,
+   "el": 67.377407
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-12 12:00",
+   "az": 282.43425,
+   "el": 69.048084
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-13 11:00",
+   "az": 286.29958,
+   "el": 70.472679
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-14 10:00",
+   "az": 289.240123,
+   "el": 71.614731
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-15 09:00",
+   "az": 290.859851,
+   "el": 72.468249
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-16 08:00",
+   "az": 290.926739,
+   "el": 73.035228
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-17 07:00",
+   "az": 289.428086,
+   "el": 73.30983
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-18 06:00",
+   "az": 286.575202,
+   "el": 73.277146
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-19 05:00",
+   "az": 282.754326,
+   "el": 72.924279
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-20 04:00",
+   "az": 278.43017,
+   "el": 72.254639
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-21 03:00",
+   "az": 274.035225,
+   "el": 71.296082
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-22 02:00",
+   "az": 269.892935,
+   "el": 70.099311
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-23 01:00",
+   "az": 266.198517,
+   "el": 68.729611
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-24 00:00",
+   "az": 263.043024,
+   "el": 67.257279
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-24 23:00",
+   "az": 260.451557,
+   "el": 65.750302
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-25 22:00",
+   "az": 258.415765,
+   "el": 64.270187
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-26 21:00",
+   "az": 256.914571,
+   "el": 62.870382
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-27 20:00",
+   "az": 255.924855,
+   "el": 61.596481
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-28 19:00",
+   "az": 255.425845,
+   "el": 60.48751
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-29 18:00",
+   "az": 255.400415,
+   "el": 59.57776
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "1969-Jul-20 20:17",
+   "az": 272.194094,
+   "el": 59.224646
+  },
+  {
+   "site": "Apollo 11, Tranquility Base",
+   "lat": 0.67408,
+   "lon": 23.47297,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "1969-Jul-20 20:18",
+   "az": 272.19603,
+   "el": 59.224284
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-14 00:00",
+   "az": 100.105463,
+   "el": 23.247784
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-14 19:00",
+   "az": 104.19666,
+   "el": 32.189047
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-15 14:00",
+   "az": 109.226666,
+   "el": 40.947544
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-16 09:00",
+   "az": 115.830665,
+   "el": 49.395227
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-17 04:00",
+   "az": 125.14482,
+   "el": 57.283134
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-17 23:00",
+   "az": 139.167681,
+   "el": 64.090073
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-18 18:00",
+   "az": 160.419339,
+   "el": 68.749058
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-19 13:00",
+   "az": 187.64597,
+   "el": 69.723401
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-20 08:00",
+   "az": 212.25018,
+   "el": 66.553827
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-21 03:00",
+   "az": 229.264792,
+   "el": 60.554788
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-21 22:00",
+   "az": 240.385969,
+   "el": 53.086678
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-22 17:00",
+   "az": 248.023555,
+   "el": 44.879189
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-23 12:00",
+   "az": 253.658217,
+   "el": 36.276483
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-24 07:00",
+   "az": 258.110595,
+   "el": 27.448268
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-25 02:00",
+   "az": 261.85265,
+   "el": 18.48575
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-25 21:00",
+   "az": 265.178651,
+   "el": 9.442964
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-26 16:00",
+   "az": 268.293564,
+   "el": 0.355823
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-27 11:00",
+   "az": 271.36272,
+   "el": -8.74795
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-28 06:00",
+   "az": 274.546005,
+   "el": -17.842448
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-29 01:00",
+   "az": 278.030828,
+   "el": -26.897811
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-29 20:00",
+   "az": 282.078104,
+   "el": -35.872409
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-30 15:00",
+   "az": 287.105316,
+   "el": -44.698462
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-01 10:00",
+   "az": 293.859887,
+   "el": -53.250113
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-02 05:00",
+   "az": 303.801347,
+   "el": -61.262859
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-03 00:00",
+   "az": 319.806691,
+   "el": -68.117703
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-03 19:00",
+   "az": 345.70984,
+   "el": -72.38839
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-04 14:00",
+   "az": 17.683659,
+   "el": -72.105764
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-05 09:00",
+   "az": 42.40572,
+   "el": -67.436268
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-06 04:00",
+   "az": 57.537994,
+   "el": -60.387446
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-06 23:00",
+   "az": 67.015577,
+   "el": -52.273279
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-07 18:00",
+   "az": 73.522701,
+   "el": -43.655299
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-08 13:00",
+   "az": 78.410624,
+   "el": -34.77612
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-09 08:00",
+   "az": 82.376769,
+   "el": -25.75321
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-10 03:00",
+   "az": 85.815298,
+   "el": -16.651215
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-10 22:00",
+   "az": 88.976224,
+   "el": -7.510972
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-11 17:00",
+   "az": 92.042596,
+   "el": 1.637216
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-12 12:00",
+   "az": 95.174297,
+   "el": 10.766173
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-13 07:00",
+   "az": 98.540856,
+   "el": 19.846154
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-01 00:00",
+   "az": 102.553449,
+   "el": 33.523926
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-01 23:00",
+   "az": 108.659026,
+   "el": 44.187991
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-02 22:00",
+   "az": 117.395498,
+   "el": 54.386126
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-03 21:00",
+   "az": 131.5208,
+   "el": 63.557145
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-04 20:00",
+   "az": 156.290681,
+   "el": 70.208327
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-05 19:00",
+   "az": 192.057917,
+   "el": 71.405733
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-06 18:00",
+   "az": 221.568442,
+   "el": 66.315677
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-07 17:00",
+   "az": 238.726604,
+   "el": 57.803198
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-08 16:00",
+   "az": 248.92807,
+   "el": 47.906719
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-09 15:00",
+   "az": 255.771711,
+   "el": 37.413991
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-10 14:00",
+   "az": 260.918732,
+   "el": 26.634123
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-11 13:00",
+   "az": 265.184161,
+   "el": 15.708254
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-12 12:00",
+   "az": 269.03056,
+   "el": 4.713377
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-13 11:00",
+   "az": 272.778434,
+   "el": -6.297964
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-14 10:00",
+   "az": 276.715622,
+   "el": -17.277945
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-15 09:00",
+   "az": 281.184619,
+   "el": -28.167639
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-16 08:00",
+   "az": 286.703124,
+   "el": -38.874112
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-17 07:00",
+   "az": 294.203894,
+   "el": -49.22097
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-18 06:00",
+   "az": 305.578823,
+   "el": -58.817306
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-19 05:00",
+   "az": 324.646173,
+   "el": -66.685981
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-20 04:00",
+   "az": 355.287017,
+   "el": -70.571675
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-21 03:00",
+   "az": 28.228513,
+   "el": -68.211862
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-22 02:00",
+   "az": 50.178439,
+   "el": -61.093469
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-23 01:00",
+   "az": 63.103869,
+   "el": -51.791008
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-24 00:00",
+   "az": 71.373414,
+   "el": -41.552334
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-24 23:00",
+   "az": 77.286093,
+   "el": -30.871093
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-25 22:00",
+   "az": 81.954987,
+   "el": -19.962488
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-26 21:00",
+   "az": 85.975012,
+   "el": -8.935815
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-27 20:00",
+   "az": 89.719317,
+   "el": 2.142627
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-28 19:00",
+   "az": 93.480323,
+   "el": 13.222421
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-29 18:00",
+   "az": 97.56062,
+   "el": 24.252759
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-14 00:00",
+   "az": 265.424393,
+   "el": 26.716852
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-14 19:00",
+   "az": 264.916582,
+   "el": 25.397737
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-15 14:00",
+   "az": 264.31705,
+   "el": 24.053206
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-16 09:00",
+   "az": 263.634142,
+   "el": 22.728632
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-17 04:00",
+   "az": 262.874466,
+   "el": 21.474098
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-17 23:00",
+   "az": 262.044318,
+   "el": 20.342948
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-18 18:00",
+   "az": 261.151528,
+   "el": 19.389848
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-19 13:00",
+   "az": 260.207546,
+   "el": 18.668222
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-20 08:00",
+   "az": 259.229512,
+   "el": 18.226899
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-21 03:00",
+   "az": 258.24194,
+   "el": 18.105929
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-21 22:00",
+   "az": 257.277592,
+   "el": 18.331785
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-22 17:00",
+   "az": 256.377081,
+   "el": 18.912497
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-23 12:00",
+   "az": 255.586866,
+   "el": 19.833694
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-24 07:00",
+   "az": 254.955576,
+   "el": 21.056759
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-25 02:00",
+   "az": 254.529015,
+   "el": 22.520198
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-25 21:00",
+   "az": 254.344583,
+   "el": 24.144666
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-26 16:00",
+   "az": 254.426104,
+   "el": 25.841073
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-27 11:00",
+   "az": 254.780039,
+   "el": 27.520183
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-28 06:00",
+   "az": 255.393832,
+   "el": 29.101672
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-29 01:00",
+   "az": 256.236704,
+   "el": 30.520877
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-29 20:00",
+   "az": 257.262719,
+   "el": 31.732279
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-30 15:00",
+   "az": 258.415514,
+   "el": 32.709737
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-01 10:00",
+   "az": 259.63379,
+   "el": 33.444163
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-02 05:00",
+   "az": 260.856644,
+   "el": 33.939639
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-03 00:00",
+   "az": 262.028015,
+   "el": 34.208971
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-03 19:00",
+   "az": 263.099854,
+   "el": 34.269463
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-04 14:00",
+   "az": 264.033998,
+   "el": 34.139435
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-05 09:00",
+   "az": 264.802936,
+   "el": 33.835773
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-06 04:00",
+   "az": 265.389755,
+   "el": 33.372595
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-06 23:00",
+   "az": 265.787491,
+   "el": 32.760974
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-07 18:00",
+   "az": 265.998048,
+   "el": 32.009555
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-08 13:00",
+   "az": 266.030759,
+   "el": 31.125829
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-09 08:00",
+   "az": 265.900649,
+   "el": 30.117781
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-10 03:00",
+   "az": 265.626501,
+   "el": 28.995637
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-10 22:00",
+   "az": 265.22888,
+   "el": 27.773465
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-11 17:00",
+   "az": 264.728312,
+   "el": 26.470433
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-12 12:00",
+   "az": 264.143809,
+   "el": 25.11163
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-13 07:00",
+   "az": 263.491932,
+   "el": 23.728428
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-01 00:00",
+   "az": 256.114926,
+   "el": 18.951846
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-01 23:00",
+   "az": 256.107036,
+   "el": 17.920067
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-02 22:00",
+   "az": 256.279013,
+   "el": 17.197085
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-03 21:00",
+   "az": 256.631619,
+   "el": 16.839754
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-04 20:00",
+   "az": 257.162262,
+   "el": 16.899712
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-05 19:00",
+   "az": 257.863126,
+   "el": 17.417121
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-06 18:00",
+   "az": 258.718268,
+   "el": 18.411922
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-07 17:00",
+   "az": 259.700121,
+   "el": 19.873431
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-08 16:00",
+   "az": 260.766369,
+   "el": 21.750553
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-09 15:00",
+   "az": 261.858638,
+   "el": 23.946451
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-10 14:00",
+   "az": 262.904599,
+   "el": 26.321906
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-11 13:00",
+   "az": 263.824567,
+   "el": 28.709515
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-12 12:00",
+   "az": 264.542251,
+   "el": 30.936385
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-13 11:00",
+   "az": 264.997413,
+   "el": 32.848706
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-14 10:00",
+   "az": 265.156646,
+   "el": 34.330667
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-15 09:00",
+   "az": 265.018466,
+   "el": 35.313421
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-16 08:00",
+   "az": 264.610896,
+   "el": 35.774364
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-17 07:00",
+   "az": 263.982792,
+   "el": 35.729937
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-18 06:00",
+   "az": 263.192539,
+   "el": 35.225638
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-19 05:00",
+   "az": 262.29807,
+   "el": 34.325975
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-20 04:00",
+   "az": 261.35066,
+   "el": 33.105806
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-21 03:00",
+   "az": 260.39283,
+   "el": 31.643607
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-22 02:00",
+   "az": 259.459249,
+   "el": 30.016634
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-23 01:00",
+   "az": 258.579062,
+   "el": 28.297672
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-24 00:00",
+   "az": 257.778297,
+   "el": 26.553036
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-24 23:00",
+   "az": 257.081546,
+   "el": 24.841552
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-25 22:00",
+   "az": 256.51262,
+   "el": 23.214373
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-26 21:00",
+   "az": 256.094206,
+   "el": 21.715543
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-27 20:00",
+   "az": 255.846814,
+   "el": 20.383248
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-28 19:00",
+   "az": 255.787347,
+   "el": 19.25164
+  },
+  {
+   "site": "Blue Ghost 1, Mare Crisium",
+   "lat": 18.562,
+   "lon": 61.81,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-29 18:00",
+   "az": 255.927634,
+   "el": 18.352923
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-14 00:00",
+   "az": 275.920739,
+   "el": 8.946088
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-14 19:00",
+   "az": 269.470289,
+   "el": 1.747387
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-15 14:00",
+   "az": 263.039286,
+   "el": -5.441612
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-16 09:00",
+   "az": 256.423224,
+   "el": -12.528339
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-17 04:00",
+   "az": 249.407521,
+   "el": -19.410566
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-17 23:00",
+   "az": 241.755783,
+   "el": -25.964938
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-18 18:00",
+   "az": 233.206381,
+   "el": -32.033901
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-19 13:00",
+   "az": 223.490216,
+   "el": -37.412292
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-20 08:00",
+   "az": 212.393016,
+   "el": -41.839831
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-21 03:00",
+   "az": 199.883879,
+   "el": -45.014627
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-21 22:00",
+   "az": 186.277286,
+   "el": -46.648246
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-22 17:00",
+   "az": 172.279355,
+   "el": -46.561669
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-23 12:00",
+   "az": 158.763399,
+   "el": -44.766736
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-24 07:00",
+   "az": 146.398988,
+   "el": -41.460372
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-25 02:00",
+   "az": 135.457414,
+   "el": -36.937208
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-25 21:00",
+   "az": 125.880224,
+   "el": -31.496398
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-26 16:00",
+   "az": 117.442646,
+   "el": -25.391888
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-27 11:00",
+   "az": 109.874907,
+   "el": -18.822365
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-28 06:00",
+   "az": 102.918411,
+   "el": -11.940101
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-29 01:00",
+   "az": 96.340307,
+   "el": -4.864593
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-29 20:00",
+   "az": 89.9288,
+   "el": 2.304505
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Nov-30 15:00",
+   "az": 83.48104,
+   "el": 9.476098
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-01 10:00",
+   "az": 76.788388,
+   "el": 16.557207
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-02 05:00",
+   "az": 69.620989,
+   "el": 23.44201
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-03 00:00",
+   "az": 61.714121,
+   "el": 29.998918
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-03 19:00",
+   "az": 52.763562,
+   "el": 36.05479
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-04 14:00",
+   "az": 42.448759,
+   "el": 41.377834
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-05 09:00",
+   "az": 30.519985,
+   "el": 45.667916
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-06 04:00",
+   "az": 16.98294,
+   "el": 48.576639
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-06 23:00",
+   "az": 2.317934,
+   "el": 49.786574
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-07 18:00",
+   "az": 347.482918,
+   "el": 49.139619
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-08 13:00",
+   "az": 333.518678,
+   "el": 46.720904
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-09 08:00",
+   "az": 321.072096,
+   "el": 42.811732
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-10 03:00",
+   "az": 310.276433,
+   "el": 37.762045
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-10 22:00",
+   "az": 300.936978,
+   "el": 31.891088
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-11 17:00",
+   "az": 292.741533,
+   "el": 25.451545
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-12 12:00",
+   "az": 285.376041,
+   "el": 18.633056
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2026-Dec-13 07:00",
+   "az": 278.56298,
+   "el": 11.578452
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-01 00:00",
+   "az": 270.343829,
+   "el": 0.037365
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-01 23:00",
+   "az": 262.551479,
+   "el": -8.672808
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-02 22:00",
+   "az": 254.403632,
+   "el": -17.221986
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-03 21:00",
+   "az": 245.494362,
+   "el": -25.418109
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-04 20:00",
+   "az": 235.351008,
+   "el": -33.009081
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-05 19:00",
+   "az": 223.448343,
+   "el": -39.643734
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-06 18:00",
+   "az": 209.349395,
+   "el": -44.842057
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-07 17:00",
+   "az": 193.077529,
+   "el": -48.029962
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-08 16:00",
+   "az": 175.56295,
+   "el": -48.721107
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-09 15:00",
+   "az": 158.470216,
+   "el": -46.794611
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-10 14:00",
+   "az": 143.195889,
+   "el": -42.581454
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-11 13:00",
+   "az": 130.193477,
+   "el": -36.645192
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-12 12:00",
+   "az": 119.201439,
+   "el": -29.526646
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-13 11:00",
+   "az": 109.709146,
+   "el": -21.641545
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-14 10:00",
+   "az": 101.209412,
+   "el": -13.287728
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-15 09:00",
+   "az": 93.263716,
+   "el": -4.683564
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-16 08:00",
+   "az": 85.489095,
+   "el": 3.99525
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-17 07:00",
+   "az": 77.522926,
+   "el": 12.585368
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-18 06:00",
+   "az": 68.984576,
+   "el": 20.908164
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-19 05:00",
+   "az": 59.442806,
+   "el": 28.73969
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-20 04:00",
+   "az": 48.408934,
+   "el": 35.775144
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-21 03:00",
+   "az": 35.411442,
+   "el": 41.594419
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-22 02:00",
+   "az": 20.249293,
+   "el": 45.663186
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-23 01:00",
+   "az": 3.419247,
+   "el": 47.442868
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-24 00:00",
+   "az": 346.273314,
+   "el": 46.636264
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-24 23:00",
+   "az": 330.357974,
+   "el": 43.379951
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-25 22:00",
+   "az": 316.52189,
+   "el": 38.150253
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-26 21:00",
+   "az": 304.782205,
+   "el": 31.50343
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-27 20:00",
+   "az": 294.729405,
+   "el": 23.907244
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-28 19:00",
+   "az": 285.865224,
+   "el": 15.707328
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Sun",
+   "utc": "2028-Feb-29 18:00",
+   "az": 277.734287,
+   "el": 7.154128
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-14 00:00",
+   "az": 139.352674,
+   "el": -45.692677
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-14 19:00",
+   "az": 138.593847,
+   "el": -44.411917
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-15 14:00",
+   "az": 137.94369,
+   "el": -43.048027
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-16 09:00",
+   "az": 137.431365,
+   "el": -41.641407
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-17 04:00",
+   "az": 137.08596,
+   "el": -40.236048
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-17 23:00",
+   "az": 136.934941,
+   "el": -38.878925
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-18 18:00",
+   "az": 137.002392,
+   "el": -37.619127
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-19 13:00",
+   "az": 137.306966,
+   "el": -36.506577
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-20 08:00",
+   "az": 137.859494,
+   "el": -35.59016
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-21 03:00",
+   "az": 138.660338,
+   "el": -34.91512
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-21 22:00",
+   "az": 139.696764,
+   "el": -34.51973
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-22 17:00",
+   "az": 140.940846,
+   "el": -34.431449
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-23 12:00",
+   "az": 142.348574,
+   "el": -34.663126
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-24 07:00",
+   "az": 143.860862,
+   "el": -35.210096
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-25 02:00",
+   "az": 145.406838,
+   "el": -36.049086
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-25 21:00",
+   "az": 146.909325,
+   "el": -37.139574
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-26 16:00",
+   "az": 148.291712,
+   "el": -38.427582
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-27 11:00",
+   "az": 149.485039,
+   "el": -39.851114
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-28 06:00",
+   "az": 150.434039,
+   "el": -41.346005
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-29 01:00",
+   "az": 151.101217,
+   "el": -42.850947
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-29 20:00",
+   "az": 151.468621,
+   "el": -44.310974
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Nov-30 15:00",
+   "az": 151.53743,
+   "el": -45.679273
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-01 10:00",
+   "az": 151.325795,
+   "el": -46.917611
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-02 05:00",
+   "az": 150.865443,
+   "el": -47.995883
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-03 00:00",
+   "az": 150.197539,
+   "el": -48.891216
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-03 19:00",
+   "az": 149.368234,
+   "el": -49.586957
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-04 14:00",
+   "az": 148.42433,
+   "el": -50.07174
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-05 09:00",
+   "az": 147.409464,
+   "el": -50.338734
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-06 04:00",
+   "az": 146.36123,
+   "el": -50.385129
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-06 23:00",
+   "az": 145.309515,
+   "el": -50.211862
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-07 18:00",
+   "az": 144.276202,
+   "el": -49.823561
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-08 13:00",
+   "az": 143.276116,
+   "el": -49.228657
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-09 08:00",
+   "az": 142.318899,
+   "el": -48.439564
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-10 03:00",
+   "az": 141.411344,
+   "el": -47.472872
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-10 22:00",
+   "az": 140.559718,
+   "el": -46.349466
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-11 17:00",
+   "az": 139.771665,
+   "el": -45.094561
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-12 12:00",
+   "az": 139.05749,
+   "el": -43.737647
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2026-Dec-13 07:00",
+   "az": 138.430739,
+   "el": -42.312365
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-01 00:00",
+   "az": 141.184891,
+   "el": -34.268833
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-01 23:00",
+   "az": 140.40638,
+   "el": -33.473871
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-02 22:00",
+   "az": 139.713629,
+   "el": -33.022074
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-03 21:00",
+   "az": 139.137863,
+   "el": -32.960531
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-04 20:00",
+   "az": 138.713517,
+   "el": -33.329369
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-05 19:00",
+   "az": 138.477725,
+   "el": -34.155163
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-06 18:00",
+   "az": 138.469267,
+   "el": -35.441689
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-07 17:00",
+   "az": 138.726339,
+   "el": -37.159126
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-08 16:00",
+   "az": 139.282125,
+   "el": -39.234483
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-09 15:00",
+   "az": 140.156974,
+   "el": -41.547715
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-10 14:00",
+   "az": 141.34664,
+   "el": -43.938325
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-11 13:00",
+   "az": 142.80839,
+   "el": -46.224549
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-12 12:00",
+   "az": 144.450675,
+   "el": -48.231698
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-13 11:00",
+   "az": 146.135185,
+   "el": -49.820678
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-14 10:00",
+   "az": 147.697575,
+   "el": -50.906511
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-15 09:00",
+   "az": 148.98304,
+   "el": -51.461402
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-16 08:00",
+   "az": 149.881852,
+   "el": -51.504456
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-17 07:00",
+   "az": 150.348854,
+   "el": -51.085392
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-18 06:00",
+   "az": 150.401175,
+   "el": -50.269482
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-19 05:00",
+   "az": 150.100367,
+   "el": -49.127455
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-20 04:00",
+   "az": 149.529659,
+   "el": -47.730374
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-21 03:00",
+   "az": 148.774509,
+   "el": -46.14775
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-22 02:00",
+   "az": 147.909796,
+   "el": -44.447094
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-23 01:00",
+   "az": 146.993546,
+   "el": -42.693728
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-24 00:00",
+   "az": 146.065559,
+   "el": -40.950362
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-24 23:00",
+   "az": 145.149167,
+   "el": -39.276373
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-25 22:00",
+   "az": 144.254728,
+   "el": -37.726939
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-26 21:00",
+   "az": 143.383914,
+   "el": -36.352291
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-27 20:00",
+   "az": 142.534204,
+   "el": -35.197293
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-28 19:00",
+   "az": 141.70317,
+   "el": -34.301494
+  },
+  {
+   "site": "Chang'e 6, far side",
+   "lat": -41.6385,
+   "lon": 206.0148,
+   "alt_km": 0.0,
+   "body": "Earth",
+   "utc": "2028-Feb-29 18:00",
+   "az": 140.892309,
+   "el": -33.699582
+  }
+ ]
+}

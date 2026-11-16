@@ -1,0 +1,122 @@
+[
+ {
+  "id": "connecting-ridge",
+  "name": "Connecting Ridge, best-lit point",
+  "lat": -89.4398,
+  "lon": 222.83,
+  "pgda_sun": 0.78324,
+  "pgda_earth": 0.58192
+ },
+ {
+  "id": "shackleton-rim",
+  "name": "Shackleton crater rim",
+  "lat": -89.6866,
+  "lon": 197.19,
+  "pgda_sun": 0.8958400000000001,
+  "pgda_earth": 0.5384
+ },
+ {
+  "id": "shackleton-vicinity",
+  "name": "Peak near Shackleton (Bussey point D)",
+  "lat": -88.74,
+  "lon": 124.5,
+  "pgda_sun": 0.6006,
+  "pgda_earth": 0.4126
+ },
+ {
+  "id": "de-gerlache-rim",
+  "name": "de Gerlache crater rim (GR1)",
+  "lat": -88.6952,
+  "lon": -68.2846,
+  "pgda_sun": 0.48316000000000003,
+  "pgda_earth": 0.5244000000000001
+ },
+ {
+  "id": "malapert-peak",
+  "name": "Malapert peak (MP1)",
+  "lat": -85.9756,
+  "lon": -2.11241,
+  "pgda_sun": 0.7079200000000001,
+  "pgda_earth": 0.5508000000000001
+ },
+ {
+  "id": "south-pole",
+  "name": "Geographic south pole",
+  "lat": -90.0,
+  "lon": 0.0,
+  "pgda_sun": 0.0,
+  "pgda_earth": 0.0
+ },
+ {
+  "id": "cabeus-b",
+  "name": "Peak near Cabeus B (region)",
+  "lat": -83.6,
+  "lon": 291.2,
+  "pgda_sun": 0.49040000000000006,
+  "pgda_earth": 0.37600000000000006
+ },
+ {
+  "id": "haworth",
+  "name": "Haworth (region)",
+  "lat": -86.7,
+  "lon": 336.3,
+  "pgda_sun": 0.32168,
+  "pgda_earth": 0.30204000000000003
+ },
+ {
+  "id": "malapert-massif",
+  "name": "Malapert Massif (region)",
+  "lat": -86.0,
+  "lon": 0.3,
+  "pgda_sun": 0.42976000000000003,
+  "pgda_earth": 0.48988000000000004
+ },
+ {
+  "id": "mons-mouton-plateau",
+  "name": "Mons Mouton Plateau (region)",
+  "lat": -84.3,
+  "lon": 30.6,
+  "pgda_sun": 0.25964000000000004,
+  "pgda_earth": 0.72436
+ },
+ {
+  "id": "mons-mouton",
+  "name": "Mons Mouton and Nobile Rim 1 (region)",
+  "lat": -85.4,
+  "lon": 35.3,
+  "pgda_sun": 0.13852,
+  "pgda_earth": 0.63312
+ },
+ {
+  "id": "nobile-rim-2",
+  "name": "Nobile Rim 2 (region)",
+  "lat": -83.9,
+  "lon": 58.7,
+  "pgda_sun": 0.35356000000000004,
+  "pgda_earth": 0.6397600000000001
+ },
+ {
+  "id": "de-gerlache-rim-2",
+  "name": "de Gerlache Rim 2 (region)",
+  "lat": -88.5,
+  "lon": 293.3,
+  "pgda_sun": 0.35344000000000003,
+  "pgda_earth": 0.60636
+ },
+ {
+  "id": "odysseus",
+  "name": "Odysseus (IM-1), Malapert A",
+  "lat": -80.13,
+  "lon": 1.44,
+  "pgda_sun": 0.35568000000000005,
+  "pgda_earth": 1.0
+ },
+ {
+  "id": "athena",
+  "name": "Athena (IM-2), Mons Mouton",
+  "lat": -84.7906,
+  "lon": 29.1957,
+  "pgda_sun": 0.46836000000000005,
+  "pgda_earth": 0.9306800000000001
+ }
+]

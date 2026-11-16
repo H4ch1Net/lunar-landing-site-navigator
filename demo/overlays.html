@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Overlay</title>
+<!-- One transparent 1920x1080 overlay per ?o=..., rendered to PNG by compose.mjs. Type from the app's design system. -->
+<style>
+  @font-face { font-family: Inter; src: url(../web/src/fonts/Inter-Bold.woff2) format('woff2'); font-weight: 700; }
+  @font-face { font-family: Inter; src: url(../web/src/fonts/Inter-SemiBold.woff2) format('woff2'); font-weight: 600; }
+  @font-face { font-family: 'Public Sans'; src: url(../web/src/fonts/PublicSans-Regular.woff2) format('woff2'); font-weight: 400; }
+  @font-face { font-family: 'DM Mono'; src: url(../web/src/fonts/DMMono-Medium.woff2) format('woff2'); font-weight: 500; }
+  @font-face { font-family: 'DM Mono'; src: url(../web/src/fonts/DMMono-Light.woff2) format('woff2'); font-weight: 300; }
+  html, body { margin: 0; width: 1920px; height: 1080px; background: transparent; overflow: hidden; }
+  .o { display: none; position: absolute; inset: 0; }
+  .shade-left { background: linear-gradient(90deg, rgba(0, 0, 0, 0.88) 0%, rgba(0, 0, 0, 0.72) 55%, rgba(0, 0, 0, 0.35) 100%); }
+  .shade-bottom { background: linear-gradient(180deg, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 0.82) 70%, rgba(0, 0, 0, 0.94) 100%); }
+  .shade-card { background: linear-gradient(180deg, rgba(0, 0, 0, 0) 24%, rgba(0, 0, 0, 0.92) 50%, rgba(0, 0, 0, 0.985) 62%, rgba(0, 0, 0, 1) 100%); }
+  .block { position: absolute; left: 150px; right: 150px; bottom: 120px; display: flex; flex-direction: column; gap: 22px; }
+  .eyebrow { font-family: 'DM Mono', monospace; font-weight: 500; font-size: 30px; letter-spacing: 3px; color: #b9b9bb; }
+  .bar { width: 120px; height: 6px; background: #f64137; }
+  .title { font-family: Inter, Arial, sans-serif; font-weight: 700; font-size: 116px; line-height: 1.02; letter-spacing: -3px; color: #ffffff; }
+  .statement { font-family: Inter, Arial, sans-serif; font-weight: 600; font-size: 66px; line-height: 1.15; letter-spacing: -1px; color: #ffffff; max-width: 1500px; }
+  .sub { font-family: 'Public Sans', Arial, sans-serif; font-size: 46px; line-height: 1.3; color: #e3e3e3; max-width: 1500px; }
+  .figures { display: flex; align-items: baseline; gap: 36px; }
+  .num { font-family: 'DM Mono', monospace; font-weight: 300; font-size: 168px; line-height: 1; letter-spacing: -6px; color: #ffffff; }
+  .num.sun { color: #f5af0c; }
+  .arrow { font-family: Inter, Arial, sans-serif; font-weight: 600; font-size: 110px; color: #b9b9bb; }
+  .unit { font-family: Inter, Arial, sans-serif; font-weight: 600; font-size: 60px; color: #f5af0c; }
+</style>
+</head>
+<body>
+<div class="o shade-left" id="title">
+  <div class="block" style="bottom: 170px">
+    <div class="eyebrow">LUNAR LANDING SITE NAVIGATOR</div>
+    <div class="bar"></div>
+    <div class="title">At the Moon’s south pole,<br>the Sun barely rises.</div>
+    <div class="sub">So where should a lander touch down, and when?</div>
+  </div>
+</div>
+<div class="o shade-bottom" id="ridges">
+  <div class="block"><div class="statement">Ridges a few kilometres away can hide the Sun, or Earth, for days.</div></div>
+</div>
+<div class="o shade-bottom" id="timeline">
+  <div class="block"><div class="statement">The app shows when a lander has sunlight, and when it can see Earth.</div></div>
+</div>
+<div class="o shade-card" id="slip">
+  <div class="block">
+    <div class="eyebrow">MONS MOUTON PLATEAU · LAND DEC 16 OR DEC 19, 2026</div>
+    <div class="figures"><span class="num">48%</span><span class="arrow">→</span><span class="num sun">94%</span><span class="unit">sunlight</span></div>
+    <div class="sub">Landing three days later doubles the sunlight of a 6.5-day stay.</div>
+  </div>
+</div>
+<div class="o shade-card" id="move">
+  <div class="block">
+    <div class="eyebrow">SAME LANDING, MOVED 0.5 KM NORTH</div>
+    <div class="figures"><span class="num">53%</span><span class="arrow">→</span><span class="num sun">100%</span><span class="unit">sunlight</span></div>
+    <div class="sub">Half a kilometre north, the Sun never sets for the whole stay.</div>
+  </div>
+</div>
+<script>
+  const id = new URLSearchParams(location.search).get('o');
+  const el = document.getElementById(id);
+  if (el) el.style.display = 'block';
+</script>
+</body>
+</html>

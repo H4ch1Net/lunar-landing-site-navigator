@@ -1,0 +1,92 @@
+{
+ "period": "2017-01-01 to 2037-01-01, hourly",
+ "reference": "Glaser et al. 2018, PSS 162",
+ "note": "surface cases use 0.5 m to avoid sampling the ground itself",
+ "rows": [
+  {
+   "name": "Connecting ridge C1 (surface)",
+   "lat": -89.4505,
+   "lon": 222.84,
+   "height_m": 0.0,
+   "site_elev_m": 1957.291089735267,
+   "ours": {
+    "avg_illum_pct": 77.3,
+    "solar_visibility_pct": 82.2,
+    "longest_shadow_h": 259
+   },
+   "glaser2018": {
+    "avg_illum_pct": 76.0,
+    "solar_visibility_pct": 81.3,
+    "longest_shadow_h": 268
+   }
+  },
+  {
+   "name": "Connecting ridge C1 (2 m)",
+   "lat": -89.4398,
+   "lon": 222.83,
+   "height_m": 2.0,
+   "site_elev_m": 1958.7183291655656,
+   "ours": {
+    "avg_illum_pct": 87.7,
+    "solar_visibility_pct": 91.9,
+    "longest_shadow_h": 113
+   },
+   "glaser2018": {
+    "avg_illum_pct": 88.0,
+    "solar_visibility_pct": 92.1,
+    "longest_shadow_h": 112
+   }
+  },
+  {
+   "name": "Shackleton rim (surface)",
+   "lat": -89.7849,
+   "lon": 203.97,
+   "height_m": 0.0,
+   "site_elev_m": 1737.2500807434162,
+   "ours": {
+    "avg_illum_pct": 81.2,
+    "solar_visibility_pct": 85.6,
+    "longest_shadow_h": 214
+   },
+   "glaser2018": {
+    "avg_illum_pct": 81.0,
+    "solar_visibility_pct": 85.5,
+    "longest_shadow_h": 221
+   }
+  },
+  {
+   "name": "Shackleton rim (2 m)",
+   "lat": -89.6866,
+   "lon": 197.19,
+   "height_m": 2.0,
+   "site_elev_m": 1729.9638644633478,
+   "ours": {
+    "avg_illum_pct": 85.3,
+    "solar_visibility_pct": 89.4,
+    "longest_shadow_h": 66
+   },
+   "glaser2018": {
+    "avg_illum_pct": 85.5,
+    "solar_visibility_pct": 89.4,
+    "longest_shadow_h": 66
+   }
+  },
+  {
+   "name": "Shackleton rim B (2 m)",
+   "lat": -89.7815,
+   "lon": 204.7,
+   "height_m": 2.0,
+   "site_elev_m": 1737.603971558399,
+   "ours": {
+    "avg_illum_pct": 80.1,
+    "solar_visibility_pct": 87.2,
+    "longest_shadow_h": 100
+   },
+   "glaser2018": {
+    "avg_illum_pct": 82.1,
+    "solar_visibility_pct": 89.8,
+    "longest_shadow_h": 65
+   }
+  }
+ ]
+}

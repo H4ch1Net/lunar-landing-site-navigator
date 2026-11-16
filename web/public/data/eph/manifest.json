@@ -1,0 +1,54 @@
+{
+ "frame": "MOON_ME",
+ "abcorr": "LT+S",
+ "center": "MOON",
+ "units": "km",
+ "step_hours": 2,
+ "layout": "float32 LE [sun_x,sun_y,sun_z,earth_x,earth_y,earth_z] per sample; sample k at Jan 1 00:00 UTC + (k-1)*step",
+ "kernels": [
+  "latest_leapseconds.tls",
+  "pck00011.tpc",
+  "moon_pa_de440_200625.bpc",
+  "moon_de440_250416.tf",
+  "de440s.bsp"
+ ],
+ "years": [
+  1969,
+  1970,
+  1971,
+  1972,
+  2013,
+  2019,
+  2020,
+  2023,
+  2024,
+  2025,
+  2026,
+  2027,
+  2028,
+  2029,
+  2030,
+  2031,
+  2032,
+  2033,
+  2034,
+  2035
+ ],
+ "interp_check": {
+  "1969": {
+   "sun_max_deg": 2.2588727439225506e-06,
+   "earth_max_deg": 1.4787793334710982e-06,
+   "earth_max_km": 0.01736982672682696
+  },
+  "2026": {
+   "sun_max_deg": 2.2588727439225506e-06,
+   "earth_max_deg": 1.7075472925031877e-06,
+   "earth_max_km": 0.018036533040048864
+  },
+  "2030": {
+   "sun_max_deg": 2.4148365394514667e-06,
+   "earth_max_deg": 1.7075472925031877e-06,
+   "earth_max_km": 0.01831096387101823
+  }
+ }
+}

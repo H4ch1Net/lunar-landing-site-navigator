@@ -1,0 +1,9 @@
+{
+ "left": -304000.0,
+ "right": 304000.0,
+ "bottom": -304000.0,
+ "top": 304000.0,
+ "px": 3040,
+ "projection": "south polar stereographic, R=1737.4 km, x = rho sin(lon), y = rho cos(lon)",
+ "source": "LOLA LDEM_80S_80MPP_ADJ (Barker et al. 2023), hillshade light from azimuth 300, altitude 35"
+}
