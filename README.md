@@ -2,6 +2,8 @@
 
 Compare lunar landing sites and dates by what matters most at the south pole: can the lander see the Sun, and can it see Earth? The app draws the Sun and Earth against the real terrain horizon for any site and time, measures sunlight and direct-to-Earth visibility over a mission window, and puts scenarios side by side so a slipped launch or a new site can be judged in seconds.
 
+**Live app: https://shackleton-ridge.netlify.app** (runs in any modern browser, nothing to install)
+
 Built for the NASA Space Apps Challenge 2026, challenge "Lunar Landing Site Navigator", by team Shackleton Ridge. Not an official NASA website.
 
 ![Explore view: the Sun and Earth over the terrain horizon at Connecting Ridge, with the mission timeline](web/public/screenshots/explore.png)
